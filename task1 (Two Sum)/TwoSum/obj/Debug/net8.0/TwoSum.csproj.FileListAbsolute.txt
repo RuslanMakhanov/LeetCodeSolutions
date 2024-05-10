@@ -1,0 +1,14 @@
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\bin\Debug\net8.0\TwoSum.exe
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\bin\Debug\net8.0\TwoSum.deps.json
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\bin\Debug\net8.0\TwoSum.runtimeconfig.json
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\bin\Debug\net8.0\TwoSum.dll
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\bin\Debug\net8.0\TwoSum.pdb
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfoInputs.cache
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfo.cs
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\TwoSum.dll
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\refint\TwoSum.dll
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\TwoSum.pdb
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\TwoSum.genruntimeconfig.cache
+C:\Users\RuslanNnNn\Desktop\tasksfromleetcode\task1 (Two Sum)\TwoSum\obj\Debug\net8.0\ref\TwoSum.dll
