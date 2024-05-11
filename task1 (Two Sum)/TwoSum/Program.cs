@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         int[] nums = {2, 7, 11, 15};
-        int target = 9;
+        int target = 18;
         
         
         Solution solution = new Solution();

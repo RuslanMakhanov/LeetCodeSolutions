@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj": {}
+    "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\LeetCodeSolutions\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj": {
+    "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\LeetCodeSolutions\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj",
+        "projectUniqueName": "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\LeetCodeSolutions\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj",
         "projectName": "TwoSum",
-        "projectPath": "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj",
+        "projectPath": "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\LeetCodeSolutions\\task1 (Two Sum)\\TwoSum\\TwoSum.csproj",
         "packagesPath": "C:\\Users\\RuslanNnNn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\task1 (Two Sum)\\TwoSum\\obj\\",
+        "outputPath": "C:\\Users\\RuslanNnNn\\Desktop\\tasksfromleetcode\\LeetCodeSolutions\\task1 (Two Sum)\\TwoSum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\RuslanNnNn\\AppData\\Roaming\\NuGet\\NuGet.Config"
